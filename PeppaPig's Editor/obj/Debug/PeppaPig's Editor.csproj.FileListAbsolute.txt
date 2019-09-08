@@ -1,0 +1,30 @@
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\bin\Debug\PeppaPig's Editor.exe.config
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\bin\Debug\PeppaPig's Editor.exe
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\bin\Debug\PeppaPig's Editor.pdb
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.csprojResolveAssemblyReference.cache
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.Form1.resources
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.Properties.Resources.resources
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.csproj.GenerateResource.Cache
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.csproj.CoreCompileInputs.cache
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.exe
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.pdb
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.animatedTS.resources
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.reusableTM.resources
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.Repointer.resources
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.moveExtender.resources
+C:\Users\PeppaPig\source\repos\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.About.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\bin\Debug\PeppaPig's Editor.exe.config
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\bin\Debug\PeppaPig's Editor.exe
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\bin\Debug\PeppaPig's Editor.pdb
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.csprojAssemblyReference.cache
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.About.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.animatedTS.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.Form1.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.moveExtender.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.Properties.Resources.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.Repointer.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig_s_Editor.reusableTM.resources
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.csproj.GenerateResource.cache
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.csproj.CoreCompileInputs.cache
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.exe
+D:\Repo\PeppaPig's Editor\PeppaPig's Editor\obj\Debug\PeppaPig's Editor.pdb
